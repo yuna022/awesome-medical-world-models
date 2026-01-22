@@ -1,7 +1,6 @@
 # Awesome Medical World Models
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Last Update](https://img.shields.io/badge/last%20update-January%202025-blue)]()
 
 > A curated list of **World Models for Healthcare**: prediction, simulation, counterfactual reasoning, and clinical decision support.
@@ -23,7 +22,6 @@
 - [Datasets \& Benchmarks](#datasets--benchmarks)
 - [Open-Source Projects](#open-source-projects)
 - [Reading Roadmap](#reading-roadmap)
-- [Contributing](#contributing)
 - [Citation](#citation)
 
 ---
@@ -265,23 +263,6 @@ Step 3: Dive into specific areas based on interest
 | CheXWorld | ✅ Available | ⭐⭐ Medium | PyTorch |
 | CLARITY | 🔜 Coming | ⭐⭐⭐ Hard | PyTorch |
 | MeWM | ❓ Unknown | - | - |
-
----
-
-## Contributing
-
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md)
-
-### Quick Add a Paper
-
-Submit an Issue or PR with:
-- Paper title, authors, year
-- arXiv/conference link
-- Capability level (L1-L4)
-- Application domain tags
-- Github link (if available)
-
-**Important:** Only papers that explicitly claim to be "World Models" will be included.
 
 ---
 

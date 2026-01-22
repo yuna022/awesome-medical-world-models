@@ -4,13 +4,12 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Purpose
 
-This is an "awesome list" curating research papers on **Medical World Models** - AI systems that learn environment dynamics for healthcare applications including prediction, simulation, counterfactual reasoning, and clinical decision support.
+This is a personal "awesome list" curating research papers on **Medical World Models** - AI systems that learn environment dynamics for healthcare applications including prediction, simulation, counterfactual reasoning, and clinical decision support.
 
 ## Repository Structure
 
 ```
 ├── README.md                    # Main paper list and documentation
-├── CONTRIBUTING.md              # Contribution guidelines
 └── resources/
     ├── reading-roadmap.md       # Learning paths for different backgrounds
     └── datasets.md              # Dataset information for training/evaluation
@@ -40,12 +39,12 @@ Use this format in README.md under the appropriate application section:
 > One sentence describing the contribution (optional)
 ```
 
-**Application domains:** Medical Imaging, Surgical Vision & Robotics, Disease Progression (EHR), Treatment Planning
+**Application domains:** Medical Imaging, Surgical Vision & Robotics, Treatment Planning
 
 **Architecture tags:** JEPA-style, Diffusion-based, Transformer, VAE/Latent Dynamics, GAN
 
 ## Inclusion Criteria
 
-✅ Include: Models state transition dynamics p(s_{t+1} | s_t, a_t), supports multi-step rollout, applied to medical/clinical scenarios
+✅ Include: Papers that **explicitly claim to be "World Models"**, model state transition dynamics p(s_{t+1} | s_t, a_t), applied to medical/clinical scenarios
 
-❌ Exclude: Static diagnosis models, pure image generation without dynamics, non-medical world models
+❌ Exclude: Papers not explicitly claiming to be world models, static diagnosis models, pure image generation without dynamics

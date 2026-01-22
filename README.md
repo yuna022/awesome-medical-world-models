@@ -76,6 +76,7 @@ Prediction Conditioned Rollouts       & Control
 | Title | Venue | Year | Links |
 |-------|-------|------|-------|
 | **Beyond Generative AI: World Models for Clinical Prediction, Counterfactuals, and Planning** | NeurIPS Workshop | 2025 | [[PDF](https://arxiv.org/abs/2511.16333)] |
+| **Machine Learning in Modeling Disease Trajectory and Treatment Outcomes: An Emerging Enabler for Model-Informed Precision Medicine** | Clinical Pharmacology & Therapeutics | 2024 | [[PDF](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.3153)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/38105646/)] |
 
 ---
 

@@ -4,9 +4,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Purpose
 
-Personal "awesome list" curating research papers on **Medical World Models** - AI systems that learn environment dynamics for healthcare applications.
+Personal "awesome list" curating research papers on **Medical World Models** - AI systems that learn environment dynamics for healthcare applications. This is a documentation-only repository (README.md is the main content).
 
 ## L1-L4 Capability Framework
+
+Based on [Qazi et al., 2025](https://arxiv.org/abs/2511.16333):
 
 | Level | Name | Criteria |
 |-------|------|----------|
@@ -17,7 +19,7 @@ Personal "awesome list" curating research papers on **Medical World Models** - A
 
 ## Adding a New Paper
 
-Format in README.md:
+Format in README.md under appropriate section:
 
 ```markdown
 **Paper Title.** [Month Year] [Venue, Year]<br>
@@ -28,8 +30,17 @@ Format in README.md:
 > One sentence description (optional)
 ```
 
+Also update the Capability Matrix table and add any new datasets to Datasets & Benchmarks section.
+
 ## Inclusion Criteria
 
-✅ Papers that **explicitly claim to be "World Models"**
+✅ Papers that **explicitly claim to be "World Models"** in their text
 
-❌ Papers not explicitly claiming to be world models
+❌ Papers not explicitly claiming to be world models (even if technically similar)
+
+## README Structure
+
+- Papers organized by application domain (Radiology, MRI/Tumor, Ultrasound, Surgical)
+- Capability Matrix shows L1-L4 levels for each paper
+- Datasets section organized by modality with expandable per-paper details
+- Open-Source Projects lists available code/project pages

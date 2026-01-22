@@ -14,7 +14,6 @@
 - [Survey \& Review](#survey--review)
 - [Papers by Application](#papers-by-application)
 - [Capability Matrix](#capability-matrix)
-- [Foundation World Models](#foundation-world-models)
 - [Datasets \& Benchmarks](#datasets--benchmarks)
 - [Open-Source Projects](#open-source-projects)
 
@@ -218,21 +217,6 @@ Prediction Conditioned Rollouts       & Control
 | SurgWorld | | | | ✅ | Surgical Robot | Cosmos 2.5 |
 | Suturing WM | | | ✅ | | Surgical | Diffusion |
 | Thrombectomy WM | | | | ✅ | Catheter Nav | TD-MPC2 |
-
----
-
-## Foundation World Models
-
-| Paper | Year | Venue | Key Contribution |
-|-------|------|-------|------------------|
-| [World Models](https://arxiv.org/abs/1803.10122) | 2018 | NeurIPS | VAE + RNN architecture prototype |
-| [Dreamer](https://arxiv.org/abs/1912.01603) | 2019 | ICLR | Latent imagination for RL |
-| [DreamerV2](https://arxiv.org/abs/2010.02193) | 2020 | ICLR | Discrete latents |
-| [MuZero](https://www.nature.com/articles/s41586-020-03051-4) | 2020 | Nature | Planning without environment model |
-| [DreamerV3](https://arxiv.org/abs/2301.04104) | 2023 | ICLR | Mastering diverse domains |
-| [A Path Towards AMI (JEPA)](https://openreview.net/pdf?id=BZ5a1r-kVsf) | 2022 | OpenReview | Predict latent, not pixels |
-| [V-JEPA](https://arxiv.org/abs/2404.08471) | 2024 | arXiv | Video understanding via JEPA |
-| [Genie](https://arxiv.org/abs/2402.15391) | 2024 | ICML | Generative interactive environments |
 
 ---
 

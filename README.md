@@ -84,6 +84,15 @@ Prediction Conditioned Rollouts       & Control
 
 ## Papers by Method
 
+### Latent World Model
+**Enhancing End-to-End Autonomous Driving with Latent World Model** [Jun 2024]<br>
+*Yingyan Li, Lue Fan, Jiawei He, Yuqi Wang, Yuntao Chen, Zhaoxiang Zhang, Tieniu Tan*<br>
+[[PDF](https://arxiv.org/abs/2406.08481)]
+
+**DREAM TO CONTROL: LEARNING BEHAVIORS BY LATENT IMAGINATION** [Mar 2020]<br>
+*Danijar Hafner, Timothy Lillicrap, Jimmy Ba, Mohammad Norouzi*<br>
+[[PDF](https://arxiv.org/pdf/1912.01603v3)]
+
 
 
 ---

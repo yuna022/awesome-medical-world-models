@@ -392,3 +392,4 @@ Open-source Diffusion Real-time Long-horizon MoE
 | TD-MPC2 | Model-based RL for world models | [GitHub](https://github.com/nicklashansen/tdmpc2) |
 | Suturing World Model | Predictive models for surgical suturing | [Project Page](https://mkturkcan.github.io/suturingmodels/) |
 | CLARITY | Treatment decision world model | [Project Page](https://dingtianxingjian.github.io/clarity-project-page/) |
+| LingBot-World | Open-source world model with real-time interaction   | [GitHub](https://github.com/Robbyant/lingbot-world) |

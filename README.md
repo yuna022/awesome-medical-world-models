@@ -84,7 +84,7 @@ Prediction Conditioned Rollouts       & Control
 
 ## Papers by Method
 
-### Latent World Model
+### 🧩Latent World Model
 **Enhancing End-to-End Autonomous Driving with Latent World Model** [Jun 2024]<br>
 *Yingyan Li, Lue Fan, Jiawei He, Yuqi Wang, Yuntao Chen, Zhaoxiang Zhang, Tieniu Tan*<br>
 [[PDF](https://arxiv.org/abs/2406.08481)]
@@ -93,7 +93,14 @@ Prediction Conditioned Rollouts       & Control
 *Danijar Hafner, Timothy Lillicrap, Jimmy Ba, Mohammad Norouzi*<br>
 [[PDF](https://arxiv.org/pdf/1912.01603v3)]
 
+### 🧩Open-source Implementations                                                                    
+**LingBot-World: Advancing Open-source World Models** [Jan 2026]<br>
+*Robbyant Team (Zelin Gao, Qiuyu Wang, Yanhong Zeng, et al.)*<br>     
+Open-source Diffusion Real-time Long-horizon MoE
+[https://arxiv.org/abs/2601.20540]
+[https://github.com/Robbyant/lingbot-world]
 
+> Fully open-source world model with three-stage training (pre-train → knowledge injection → interaction readiness). Supports 10-minute video generation with sub-second latency, emergent spatial memory, and multi-modal control. Achieves SOTA on VBench. 
 
 ---
 
